@@ -1,0 +1,27 @@
+WWWAcct 12.6.0 (c) 2023 cPanel, L.L.C....
+
+
++===================================+
+| New Account Info                  |
++===================================+
+| Domain: adamdesign.net
+| Ip: 85.195.87.109 (n)
+| HasCgi: y
+| UserName: adamdesign
+| PassWord: efh757jzt6u0
+| CpanelMod: paper_lantern
+| HomeRoot: /home
+| Quota: unlimited
+| NameServer1: ns1.dahabmasr.com
+| NameServer2: ns2.dahabmasr.com
+| NameServer3: 
+| NameServer4: 
+| Contact Email: aaafouad@gmail.com
+| Package: default
+| Feature List: default
+| Account Enhancements: None
+| Language: en
++===================================+
+
+...Done
+<referenceBlock name="product.buynow" remove="true" />

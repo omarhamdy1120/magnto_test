@@ -1,0 +1,4 @@
+admin-user=a2dev
+admin-password=admin123
+
+https://adamdesign.net/admin_5aes43
